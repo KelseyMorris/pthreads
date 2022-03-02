@@ -1,4 +1,4 @@
 # pthreads
 Kelsey morris
 3/1/2022
-All 4 of the synchronizations run properly with no bugs.
+3/4 of the synchronizations run properly with no bugs.
